@@ -1,0 +1,28 @@
+[
+  {
+    "email": "demo@example.com",
+    "status": "delivered",
+    "placedAt": "2026-09-02",
+    "items": [
+      { "slug": "trail-shell-jacket", "name": "Trail Shell Jacket", "variant": "M / Olive", "quantity": 1, "priceCents": 14900 },
+      { "slug": "wool-beanie", "name": "Wool Beanie", "variant": "Charcoal", "quantity": 1, "priceCents": 2800 }
+    ]
+  },
+  {
+    "email": "demo@example.com",
+    "status": "shipped",
+    "placedAt": "2026-09-18",
+    "items": [
+      { "slug": "daypack-20l", "name": "Daypack 20L", "variant": "Forest", "quantity": 1, "priceCents": 11900 }
+    ]
+  },
+  {
+    "email": "sam@example.com",
+    "status": "delivered",
+    "placedAt": "2026-08-21",
+    "items": [
+      { "slug": "everyday-tee", "name": "Everyday Tee", "variant": "L / Black", "quantity": 2, "priceCents": 3200 },
+      { "slug": "canvas-work-pant", "name": "Canvas Work Pant", "variant": "32 / Tan", "quantity": 1, "priceCents": 8900 }
+    ]
+  }
+]

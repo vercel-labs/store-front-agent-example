@@ -1,0 +1,450 @@
+[
+  {
+    "slug": "trail-shell-jacket",
+    "name": "Trail Shell Jacket",
+    "category": "Apparel",
+    "priceCents": 14900,
+    "description": "A three-layer waterproof shell with a helmet-compatible hood and pit zips. Cut for layering: size up if you plan to wear a heavy fleece underneath.",
+    "options": { "Size": ["XS", "S", "M", "L", "XL"], "Color": ["Olive", "Slate"] }
+  },
+  {
+    "slug": "merino-crew-sweater",
+    "name": "Merino Crew Sweater",
+    "category": "Apparel",
+    "priceCents": 9800,
+    "description": "Midweight 100% merino knit that regulates temperature and resists odor. Runs true to size with a relaxed body and slightly long sleeves.",
+    "options": { "Size": ["S", "M", "L", "XL"], "Color": ["Oat", "Charcoal", "Rust"] }
+  },
+  {
+    "slug": "everyday-tee",
+    "name": "Everyday Tee",
+    "category": "Apparel",
+    "priceCents": 3200,
+    "description": "Heavyweight organic cotton tee with a straight hem and a slightly dropped shoulder. Runs true to size; it softens and relaxes after a few washes.",
+    "options": { "Size": ["XS", "S", "M", "L", "XL", "XXL"], "Color": ["White", "Black", "Sage"] }
+  },
+  {
+    "slug": "canvas-work-pant",
+    "name": "Canvas Work Pant",
+    "category": "Apparel",
+    "priceCents": 8900,
+    "description": "12-ounce duck canvas with a gusseted crotch and double-layer knees. Sized by waist in inches with a 32-inch inseam; the fit is straight through the leg.",
+    "options": { "Waist": ["30", "32", "34", "36"], "Color": ["Tan", "Brown"] }
+  },
+  {
+    "slug": "fleece-half-zip",
+    "name": "Fleece Half-Zip",
+    "category": "Apparel",
+    "priceCents": 7900,
+    "description": "Recycled polyester grid fleece with a tall collar and a chest pocket. Runs small: size up if you are between sizes or want to layer underneath.",
+    "options": { "Size": ["S", "M", "L", "XL"], "Color": ["Navy", "Heather Grey"] }
+  },
+  {
+    "slug": "down-puffer-vest",
+    "name": "Down Puffer Vest",
+    "category": "Apparel",
+    "priceCents": 11900,
+    "description": "650-fill recycled down in a packable vest with a stand collar and zip hand pockets. Runs true to size over a sweater; size down for a close fit over a tee.",
+    "options": { "Size": ["S", "M", "L", "XL"], "Color": ["Black", "Olive", "Clay"] }
+  },
+  {
+    "slug": "ridge-flannel-shirt",
+    "name": "Ridge Flannel Shirt",
+    "category": "Apparel",
+    "priceCents": 7400,
+    "description": "Brushed cotton flannel with a button-down collar and two chest pockets. Relaxed fit through the body; if you prefer it trim, size down.",
+    "options": { "Size": ["S", "M", "L", "XL", "XXL"], "Color": ["Red Plaid", "Green Plaid", "Slate"] }
+  },
+  {
+    "slug": "trail-hoodie",
+    "name": "Trail Hoodie",
+    "category": "Apparel",
+    "priceCents": 8400,
+    "description": "Midweight French terry hoodie with a lined hood and a kangaroo pocket. Runs true to size with a slightly longer body for coverage when bending.",
+    "options": { "Size": ["XS", "S", "M", "L", "XL"], "Color": ["Heather Grey", "Forest", "Black"] }
+  },
+  {
+    "slug": "trail-shorts",
+    "name": "Trail Shorts",
+    "category": "Apparel",
+    "priceCents": 5800,
+    "description": "Quick-dry stretch nylon shorts with a 7-inch inseam and a zip back pocket. Sized by waist in inches; the elastic waistband gives about an inch of room.",
+    "options": { "Waist": ["30", "32", "34", "36"], "Color": ["Khaki", "Black", "Slate"] }
+  },
+  {
+    "slug": "rain-pants",
+    "name": "Rain Pants",
+    "category": "Apparel",
+    "priceCents": 9900,
+    "description": "Lightweight 2.5-layer waterproof pants with three-quarter side zips that pull on over boots. Cut roomy to go over other pants; order your usual size.",
+    "options": { "Size": ["S", "M", "L", "XL"], "Color": ["Black", "Slate"] }
+  },
+  {
+    "slug": "merino-base-layer",
+    "name": "Merino Base Layer",
+    "category": "Apparel",
+    "priceCents": 8800,
+    "description": "Lightweight merino long-sleeve crew meant to sit next to skin. Runs snug by design; size up if you want it to fit like a regular shirt.",
+    "options": { "Size": ["XS", "S", "M", "L", "XL"], "Color": ["Black", "Oat", "Navy"] }
+  },
+  {
+    "slug": "canvas-field-cap",
+    "name": "Canvas Field Cap",
+    "category": "Apparel",
+    "priceCents": 3400,
+    "description": "Unstructured six-panel cap in washed cotton canvas with a brass slide buckle. One size fits most, adjustable from 21 to 24 inches.",
+    "options": { "Color": ["Tan", "Olive", "Black"] }
+  },
+  {
+    "slug": "wool-liner-gloves",
+    "name": "Wool Liner Gloves",
+    "category": "Apparel",
+    "priceCents": 3600,
+    "description": "Thin merino liner gloves with touchscreen fingertips. Sized S to L by palm width; they stretch, so when in doubt go down a size.",
+    "options": { "Size": ["S", "M", "L"], "Color": ["Charcoal", "Navy"] }
+  },
+  {
+    "slug": "linen-camp-shirt",
+    "name": "Linen Camp Shirt",
+    "category": "Apparel",
+    "priceCents": 6800,
+    "description": "Short-sleeve linen shirt with a camp collar and a boxy cut. Runs large: most people size down one for the intended drape.",
+    "options": { "Size": ["S", "M", "L", "XL"], "Color": ["Natural", "Indigo", "Sage"] }
+  },
+  {
+    "slug": "daypack-20l",
+    "name": "Daypack 20L",
+    "category": "Bags",
+    "priceCents": 11900,
+    "description": "A 20-liter daypack with a padded laptop sleeve, a stretch side pocket for a bottle, and a sternum strap. Weighs 720 grams.",
+    "options": { "Color": ["Black", "Forest", "Clay"] }
+  },
+  {
+    "slug": "roll-top-tote",
+    "name": "Roll-Top Tote",
+    "category": "Bags",
+    "priceCents": 6400,
+    "description": "Waxed canvas tote that rolls closed to keep rain out. Holds a 15-inch laptop flat, with a zip pocket inside for keys and a wallet.",
+    "options": { "Color": ["Natural", "Olive"] }
+  },
+  {
+    "slug": "travel-duffel-45l",
+    "name": "Travel Duffel 45L",
+    "category": "Bags",
+    "priceCents": 15900,
+    "description": "Carry-on sized duffel in recycled ballistic nylon with stowable backpack straps and a separate shoe compartment. 45 liters, 1.2 kilograms.",
+    "options": { "Color": ["Black", "Slate"] }
+  },
+  {
+    "slug": "sling-bag",
+    "name": "Sling Bag",
+    "category": "Bags",
+    "priceCents": 4800,
+    "description": "A 4-liter crossbody sling with a quick-release buckle and a hidden back pocket. Fits a phone, wallet, keys, and a small water bottle.",
+    "options": { "Color": ["Black", "Sand"] }
+  },
+  {
+    "slug": "hip-pack-3l",
+    "name": "Hip Pack 3L",
+    "category": "Bags",
+    "priceCents": 3900,
+    "description": "A 3-liter lumbar pack with two bottle holsters and a stretch front pocket. The waist belt adjusts from 28 to 46 inches.",
+    "options": { "Color": ["Black", "Forest", "Coral"] }
+  },
+  {
+    "slug": "weekender-35l",
+    "name": "Weekender 35L",
+    "category": "Bags",
+    "priceCents": 13900,
+    "description": "A 35-liter travel backpack that opens flat like a suitcase, with compression straps and a padded 16-inch laptop sleeve. Fits under most airline seats.",
+    "options": { "Color": ["Black", "Slate", "Olive"] }
+  },
+  {
+    "slug": "packing-cubes-3-pack",
+    "name": "Packing Cubes, 3-Pack",
+    "category": "Bags",
+    "priceCents": 3200,
+    "description": "Three ripstop cubes in small, medium, and large with mesh tops so you can see what is inside. Compress to about half their packed height.",
+    "options": { "Color": ["Slate", "Coral"] }
+  },
+  {
+    "slug": "dry-bag-10l",
+    "name": "Dry Bag 10L",
+    "category": "Bags",
+    "priceCents": 2600,
+    "description": "A 10-liter roll-top dry bag in welded TPU. Keeps a change of clothes dry on a paddle or in a leaking pack. Not for submersion.",
+    "options": { "Color": ["Coral", "Forest", "Steel"] }
+  },
+  {
+    "slug": "canvas-messenger",
+    "name": "Canvas Messenger",
+    "category": "Bags",
+    "priceCents": 9800,
+    "description": "Waxed canvas messenger with a leather flap strap and a padded 14-inch laptop pocket. The shoulder strap has a quick-adjust slider for riding.",
+    "options": { "Color": ["Brown", "Olive", "Charcoal"] }
+  },
+  {
+    "slug": "laptop-sleeve-14",
+    "name": "Laptop Sleeve 14 inch",
+    "category": "Bags",
+    "priceCents": 4200,
+    "description": "Felted wool sleeve with a leather pull tab, sized for 13 and 14-inch laptops. Slips inside the Daypack or the Weekender.",
+    "options": { "Color": ["Heather Grey", "Charcoal"] }
+  },
+  {
+    "slug": "market-tote",
+    "name": "Market Tote",
+    "category": "Bags",
+    "priceCents": 3800,
+    "description": "An open-top cotton canvas tote with long handles that sit on the shoulder and a flat bottom that stands up on its own. Machine washable.",
+    "options": { "Color": ["Natural", "Navy", "Mustard"] }
+  },
+  {
+    "slug": "toiletry-kit",
+    "name": "Toiletry Kit",
+    "category": "Bags",
+    "priceCents": 3400,
+    "description": "A hanging toiletry kit with a wipe-clean lining, a removable mirror, and three mesh pockets. Hook rotates to hang from any door or rail.",
+    "options": { "Color": ["Black", "Slate", "Clay"] }
+  },
+  {
+    "slug": "insulated-bottle-750",
+    "name": "Insulated Bottle 750ml",
+    "category": "Accessories",
+    "priceCents": 3600,
+    "description": "Double-wall stainless steel bottle that keeps drinks cold for 24 hours or hot for 12. The wide mouth takes ice cubes and fits most car cup holders.",
+    "options": { "Color": ["Steel", "Moss", "Coral"] }
+  },
+  {
+    "slug": "wool-beanie",
+    "name": "Wool Beanie",
+    "category": "Accessories",
+    "priceCents": 2800,
+    "description": "Chunky rib-knit beanie in a merino and nylon blend with a fold-over cuff. One size; the knit stretches to fit most heads comfortably.",
+    "options": { "Color": ["Charcoal", "Mustard", "Rust"] }
+  },
+  {
+    "slug": "leather-belt",
+    "name": "Leather Belt",
+    "category": "Accessories",
+    "priceCents": 5400,
+    "description": "Full-grain bridle leather, 1.5 inches wide, with a solid brass buckle. Order two inches above your pant waist size.",
+    "options": { "Size": ["32", "34", "36", "38"], "Color": ["Brown", "Black"] }
+  },
+  {
+    "slug": "trail-socks-3-pack",
+    "name": "Trail Socks, 3-Pack",
+    "category": "Accessories",
+    "priceCents": 2900,
+    "description": "Three pairs of merino-blend crew socks with a cushioned sole and arch support. Sized by US shoe size.",
+    "options": { "Size": ["S (4-6)", "M (7-9)", "L (10-12)"] }
+  },
+  {
+    "slug": "polarized-sunglasses",
+    "name": "Polarized Sunglasses",
+    "category": "Accessories",
+    "priceCents": 7800,
+    "description": "Polarized lenses in a bio-based acetate frame with spring hinges. Medium fit, 50mm lens width, with a microfiber pouch.",
+    "options": { "Color": ["Tortoise", "Matte Black"] }
+  },
+  {
+    "slug": "rechargeable-headlamp",
+    "name": "Rechargeable Headlamp",
+    "category": "Accessories",
+    "priceCents": 4900,
+    "description": "A 400-lumen USB-C rechargeable headlamp with a red night mode and a tilting head. Runs 6 hours on high and 40 on low. Weighs 78 grams.",
+    "options": { "Color": ["Black", "Coral"] }
+  },
+  {
+    "slug": "trekking-poles",
+    "name": "Trekking Poles",
+    "category": "Accessories",
+    "priceCents": 8900,
+    "description": "A pair of three-section aluminum poles with cork grips and flip locks. Adjust from 100 to 135 centimeters and collapse to 62 for travel.",
+    "options": { "Color": ["Steel", "Forest"] }
+  },
+  {
+    "slug": "field-watch-strap",
+    "name": "Field Watch Strap",
+    "category": "Accessories",
+    "priceCents": 2400,
+    "description": "A 20mm two-piece nylon strap with a brushed steel buckle and keepers. Fits wrists from 6 to 8.5 inches.",
+    "options": { "Color": ["Olive", "Black", "Navy"] }
+  },
+  {
+    "slug": "camp-mug-insulated",
+    "name": "Insulated Camp Mug",
+    "category": "Accessories",
+    "priceCents": 2600,
+    "description": "A 350ml double-wall stainless mug with a sliding lid. Keeps coffee hot for about three hours. Fits the bottle pocket on all our packs.",
+    "options": { "Color": ["Steel", "Moss", "Coral"] }
+  },
+  {
+    "slug": "carabiner-keychain",
+    "name": "Carabiner Keychain",
+    "category": "Accessories",
+    "priceCents": 1400,
+    "description": "A machined aluminum carabiner with a split ring and a bottle opener. Not rated for climbing.",
+    "options": { "Color": ["Steel", "Black", "Coral"] }
+  },
+  {
+    "slug": "wool-scarf",
+    "name": "Wool Scarf",
+    "category": "Accessories",
+    "priceCents": 4800,
+    "description": "A lambswool scarf, 180 by 30 centimeters, with a brushed finish and fringed ends. Dry clean or hand wash cold.",
+    "options": { "Color": ["Charcoal", "Rust", "Green Plaid"] }
+  },
+  {
+    "slug": "canvas-wallet",
+    "name": "Canvas Wallet",
+    "category": "Accessories",
+    "priceCents": 3200,
+    "description": "A bifold wallet in waxed canvas with a leather trim, six card slots, and a bill sleeve. Thinner than a leather bifold and softens with use.",
+    "options": { "Color": ["Tan", "Olive", "Charcoal"] }
+  },
+  {
+    "slug": "bandana-2-pack",
+    "name": "Bandana, 2-Pack",
+    "category": "Accessories",
+    "priceCents": 1800,
+    "description": "Two 22-inch cotton bandanas in a printed topographic pattern. Doubles as a napkin, a sweatband, or a pot holder in a pinch.",
+    "options": { "Color": ["Rust", "Navy"] }
+  },
+  {
+    "slug": "enamel-mug-set",
+    "name": "Enamel Mug Set",
+    "category": "Home",
+    "priceCents": 3400,
+    "description": "Two 12-ounce steel mugs with a speckled enamel finish and a rolled rim. Fine on a camp stove; not for the microwave.",
+    "options": { "Color": ["Cream", "Forest"] }
+  },
+  {
+    "slug": "camp-blanket",
+    "name": "Camp Blanket",
+    "category": "Home",
+    "priceCents": 8900,
+    "description": "A recycled wool blend blanket, 60 by 80 inches, with a water-resistant nylon backing. Rolls into its own carry strap.",
+    "options": { "Color": ["Plaid Red", "Plaid Green"] }
+  },
+  {
+    "slug": "cedar-candle",
+    "name": "Cedar Candle",
+    "category": "Home",
+    "priceCents": 2400,
+    "description": "Soy wax candle with cedar and smoke notes in a reusable amber glass jar. Burns about 45 hours. Final sale.",
+    "options": {}
+  },
+  {
+    "slug": "field-notebook-3-pack",
+    "name": "Field Notebook, 3-Pack",
+    "category": "Home",
+    "priceCents": 1400,
+    "description": "Three pocket-sized notebooks with dot-grid pages and water-resistant covers. 48 pages each. Final sale.",
+    "options": {}
+  },
+  {
+    "slug": "cast-iron-skillet",
+    "name": "Cast Iron Skillet, 10 inch",
+    "category": "Home",
+    "priceCents": 4900,
+    "description": "A pre-seasoned 10-inch skillet with a helper handle and two pour spouts. Works on induction, gas, oven, and open fire.",
+    "options": {}
+  },
+  {
+    "slug": "linen-apron",
+    "name": "Linen Apron",
+    "category": "Home",
+    "priceCents": 5800,
+    "description": "Stonewashed linen apron with cross-back straps that take the weight off your neck, and two deep front pockets. One size.",
+    "options": { "Color": ["Natural", "Indigo"] }
+  },
+  {
+    "slug": "stovetop-kettle",
+    "name": "Stovetop Kettle",
+    "category": "Home",
+    "priceCents": 6400,
+    "description": "A 1.5-liter enameled steel kettle with a wood handle and a whistling spout. Works on gas, electric, and induction.",
+    "options": { "Color": ["Cream", "Forest", "Coral"] }
+  },
+  {
+    "slug": "walnut-cutting-board",
+    "name": "Walnut Cutting Board",
+    "category": "Home",
+    "priceCents": 7200,
+    "description": "An end-grain walnut board, 12 by 18 inches, with a juice groove and a hanging hole. Oil it monthly; never put it in the dishwasher.",
+    "options": {}
+  },
+  {
+    "slug": "wool-throw-pillow",
+    "name": "Wool Throw Pillow",
+    "category": "Home",
+    "priceCents": 4600,
+    "description": "A 20-inch pillow cover in a herringbone wool weave with a hidden zipper, insert included. Spot clean only.",
+    "options": { "Color": ["Oat", "Rust", "Charcoal"] }
+  },
+  {
+    "slug": "enamel-dutch-oven",
+    "name": "Enamel Dutch Oven",
+    "category": "Home",
+    "priceCents": 12900,
+    "description": "A 5.5-quart cast iron dutch oven with a cream enamel interior and a tight-fitting lid. Oven safe to 500 degrees.",
+    "options": { "Color": ["Cream", "Forest", "Coral"] }
+  },
+  {
+    "slug": "camp-lantern",
+    "name": "Camp Lantern",
+    "category": "Home",
+    "priceCents": 5400,
+    "description": "A rechargeable LED lantern with a warm dimmable glow and a fold-flat handle. Runs 60 hours on low and doubles as a phone charger.",
+    "options": { "Color": ["Steel", "Forest"] }
+  },
+  {
+    "slug": "jute-doormat",
+    "name": "Jute Doormat",
+    "category": "Home",
+    "priceCents": 3800,
+    "description": "A woven jute doormat, 18 by 30 inches, with a non-slip rubber backing. Shake out to clean; keep it under cover from heavy rain.",
+    "options": { "Color": ["Natural", "Charcoal"] }
+  },
+  {
+    "slug": "tea-towel-set",
+    "name": "Tea Towel Set",
+    "category": "Home",
+    "priceCents": 2800,
+    "description": "Three linen-cotton tea towels, 20 by 28 inches, with a hanging loop. They get more absorbent with every wash.",
+    "options": { "Color": ["Natural", "Indigo", "Rust"] }
+  },
+  {
+    "slug": "ceramic-planter",
+    "name": "Ceramic Planter",
+    "category": "Home",
+    "priceCents": 4200,
+    "description": "A 7-inch stoneware planter with a drainage hole and a matching saucer. Glazed outside, raw clay inside so roots can breathe.",
+    "options": { "Color": ["Cream", "Sage", "Clay"] }
+  },
+  {
+    "slug": "wool-area-rug",
+    "name": "Wool Area Rug",
+    "category": "Home",
+    "priceCents": 24900,
+    "description": "A flat-woven wool rug, 5 by 8 feet, in a two-tone stripe. Reversible; rotate it twice a year so it wears evenly.",
+    "options": { "Color": ["Oat", "Charcoal", "Rust"] }
+  },
+  {
+    "slug": "cork-coaster-set",
+    "name": "Cork Coaster Set",
+    "category": "Home",
+    "priceCents": 1600,
+    "description": "Six 4-inch cork coasters, 8 millimeters thick, in a canvas sleeve. Wipe clean.",
+    "options": {}
+  },
+  {
+    "slug": "beeswax-wraps",
+    "name": "Beeswax Wraps",
+    "category": "Home",
+    "priceCents": 2200,
+    "description": "Three reusable food wraps in small, medium, and large, made of organic cotton coated in beeswax and jojoba oil. Last about a year with cold-water washing.",
+    "options": {}
+  }
+]
